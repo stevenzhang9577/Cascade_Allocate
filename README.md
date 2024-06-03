@@ -1,5 +1,5 @@
 # Cascade & allocate: A cross-structure adversarial attack against models fusing vision and language (Information Fusion 2024)
-Official implementation of ["**[Cascade & allocate: A cross-structure adversarial attack against models fusing vision and language (Information Fusion 2024)](https://doi.org/10.1016/j.inffus.2023.102179)**"], **[Boyuan Zhang](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uBBaTjEAAAAJ&citation_for_view=uBBaTjEAAAAJ:pS0ncopqnHgC)**, Yucheng Shi, **[YaHong Han](http://cic.tju.edu.cn/faculty/hanyahong/index.html)**, Qinghua Hu, Weiping Ding.
+Official implementation of ["**[Cascade & allocate: A cross-structure adversarial attack against models fusing vision and language (Information Fusion 2024)](https://doi.org/10.1016/j.inffus.2023.102179)**"], **[Boyuan Zhang](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uBBaTjEAAAAJ&citation_for_view=uBBaTjEAAAAJ:pS0ncopqnHgC)**, **[Yucheng Shi](https://scholar.google.com/citations?user=annoZWEAAAAJ&hl=en)**, **[YaHong Han](http://cic.tju.edu.cn/faculty/hanyahong/index.html)**, **[Qinghua Hu](https://scholar.google.com/citations?user=TVSNq_wAAAAJ&hl=en)**, Weiping Ding.
 DOI: https://doi.org/10.1016/j.inffus.2023.102179
 
 
